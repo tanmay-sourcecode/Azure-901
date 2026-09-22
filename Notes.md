@@ -7,7 +7,9 @@ Azure provides four core categories of services:
     Networking: Tools that connect your cloud resources to each other, to the internet, or to your organization.
     Networking makes sure your apps can talk to each other securely and efficiently.
     App Services: Ready‑made platforms for building, hosting, and running applications without managing the underlying servers.
-Azure organizes access and management by tenants, subscriptions, resource groups, and resources.
+
+    
+Azure organizes access and management by **tenants, subscriptions, resource groups, and resources**
 
 https://learn.microsoft.com/en-us/training/wwl-data-ai/get-started-with-ai-in-azure/media/azure-tenant-structure.png
 
